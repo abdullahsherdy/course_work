@@ -1,8 +1,7 @@
 ## Functions 
- - What is a Function?
- - Declaring and Calling
+ - What is a Function? 
+ - Declaring and Calling 
  - Parameters & Return Values
- - Parameters vs. Arguments
  - Scope (Local vs. Global)
  - Default Arguments
  - Practice Problem
@@ -13,7 +12,6 @@
 
 #### example 
 ```cpp
-
  void greet(){
     std::cout<<"Hello, World!"<<std::endl;
  }
